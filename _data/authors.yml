@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
 qwtel:
-  name:              Beibei Chen
-  email:             beibeichen1103@gmail.com
+  name:              <Beibei><Chen>
+  email:             <beibeichen1103@gmail.com>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -50,12 +50,12 @@ qwtel:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          <bchen4>
+    github:          bchen4
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-     linkedin:        <beibeichen1103>
+    linkedin:        beibeichen1103
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>

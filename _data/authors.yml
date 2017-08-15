@@ -7,7 +7,7 @@ qwtel:
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |Data scientist
+  about:             Data scientist
 
   # This photo will be used in the about section
   picture:

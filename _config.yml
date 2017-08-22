@@ -18,15 +18,16 @@ tagline:             Beibei's Github Page.
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  Computational Biologist, Data Scientist
+  Computational Biologist @ UTSW
+  Open `_config.yml` to edit this text.
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              Beibei Chen
-  email:             beibeichen1103@gmail.com
+  name:              <Beibei> <Chen>
+  email:             <beibeichen1103@gmail.com>
 
 # Fallback image and color
-image:               /assets/img/nap.jpg
+image:               /hydejack/assets/img/nap.jpg
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
@@ -47,7 +48,7 @@ google_fonts:        Roboto+Slab:700|Noto+Serif:400,400i,700,700i
 google_analytics:    <UA-XXXXXXXX-X>
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
-disqus_shortname:    <bchen4>
+disqus_shortname:    <username>
 
 # This text will appear in the footer of every page. Markdown enabled.
 copyright:           '&copy; 2017. All rights reserved.'

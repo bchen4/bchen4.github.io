@@ -1,8 +1,8 @@
 ---
 layout: about
 title: About
-menu: true
-order: 3
+# menu: true
+# order: 3
 ---
 
 ## Hydejack

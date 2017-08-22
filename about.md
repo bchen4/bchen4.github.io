@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Welcome*
+title: About
 menu: true
 order: 1
 ---

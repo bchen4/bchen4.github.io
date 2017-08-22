@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Posts
-# menu: true
-# order: 2
+title: Projects
+menu: true
+order: 2
 ---

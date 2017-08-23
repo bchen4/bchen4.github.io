@@ -22,7 +22,7 @@ description:         >
   Open `_config.yml` to edit this text.
 
 # This should be the same author as first entry in `_data/authors.yml`
-Beibei Chen:
+author:
   name:              Beibei Chen
   email:             beibeichen1103@gmail.com
 

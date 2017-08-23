@@ -1,6 +1,6 @@
 ---
 layout: blog
 title: Projects
-menu: true
+# menu: true
 order: 2
 ---

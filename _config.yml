@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               bchen4
+title:               Beibei Chen
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -22,7 +22,7 @@ description:         >
   Open `_config.yml` to edit this text.
 
 # This should be the same author as first entry in `_data/authors.yml`
-Beibei Chen:
+bchen4:
   name:              Beibei Chen
   email:             beibeichen1103@gmail.com
 

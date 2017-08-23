@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Resume
+title: About
 menu: true
 order: 1
 ---

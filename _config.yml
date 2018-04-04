@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 二进制
+title: Grounded Flow
 brief-intro: 个人成长
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bchen4.github.io" # the base hostname & protocol for your site
@@ -23,7 +23,7 @@ github_username:  bchen4
 linkedIn_username: beibeichen1103
 #dribbble_username:
 
-description_footer: 个人成长之路！
+#description_footer:
 
 # comments
 # two ways to comment, only choose one, and use your own short name

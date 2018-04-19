@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  意义之火——读《Man’s Search for Meaning》
+date:   2018-01-15 12:17
 categories: Book
 tags: book
 author: bchen

@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  西蒙卡片原理分享笔记

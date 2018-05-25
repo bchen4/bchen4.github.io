@@ -2,8 +2,8 @@
 layout: post
 title:  Time-series Visualization
 date:   2018-05-24 20:05
-categories: TechNote
-tags: visualization, matplotlib
+categories: Visualization
+tags: matplotlib
 author: bchen
 ---
 

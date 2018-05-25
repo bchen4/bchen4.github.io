@@ -15,7 +15,9 @@ Time series visualization.
 2. Control what dates printed on x axis;
 
 Things I learned:
+
 Have to use numpy or datetime to transform the date column to datetime type. If use pd.to_datetime() method, somehow matplotlib won't recognize it;
+
 
 
 

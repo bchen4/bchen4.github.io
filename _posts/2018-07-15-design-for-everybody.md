@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <Design for every body> notes
+title: 《写给大家的设计书》笔记
 date:   2018-07-15 20:08
 categories: book
 tags: design

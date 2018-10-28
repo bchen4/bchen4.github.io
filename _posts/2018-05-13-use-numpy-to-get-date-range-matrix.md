@@ -3,7 +3,7 @@ layout: post
 title:  Use Numpy to get date range matrix
 date:   2018-05-13 21:36
 categories: Tech
-tags: datascience
+tags: Visualization
 author: bchen
 ---
 

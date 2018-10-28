@@ -53,7 +53,7 @@ author: bchen
 ### Waston
 
 第九章具体讲了Waston的架构和一些实现功能的模块，对于理解这个系统设计非常有帮助。
-
+![Waston DeepQA](https://github.com/bchen4/bchen4.github.io/blob/master/img/DeepQA-Arch.png)
 
 这里也解答了“如果产生假设？”
 
@@ -70,6 +70,8 @@ author: bchen
 4. Logical Form Answer Candiate Scores (LFACS)
 
 
-了
-4. Logical Form Answer Candiate Scores (LFACS)
-4. Logical Form Answer Candiate Scores (LFACS)
+##
+同时也发表在[豆瓣日记](https://book.douban.com/review/9729439/)
+
+## ChangeLog
+20181027 初稿

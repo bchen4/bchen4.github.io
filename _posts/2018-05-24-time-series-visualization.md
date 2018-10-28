@@ -3,7 +3,7 @@ layout: post
 title:  Time-series Visualization
 date:   2018-05-24 20:05
 categories: Tech
-tags: matplotlib
+tags: Visualization
 author: bchen
 ---
 

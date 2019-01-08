@@ -14,7 +14,7 @@ type: page
 
 Data Scientist & Bioinformatician
 
-* 2017.10 Data Scientist @ [HomeAway](homeaway.com)
+* 2017.10 Data Scientist @ [HomeAway](https://www.homeaway.com/)
 * 2012.06 Computational Biologist @ UTSW
 
 

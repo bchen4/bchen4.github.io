@@ -22,8 +22,3 @@ Data Scientist & Bioinformatician
 
 * GitHub：[bchen4](https://github.com/bchen4)
 
-
-
-## Comments
-
-{% include comments.html %}

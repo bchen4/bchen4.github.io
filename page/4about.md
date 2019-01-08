@@ -29,4 +29,4 @@ Data Scientist & Bioinformatician
 
 ## Comments
 
-{% include comments.html %}
+{% include disqus_comments.html %}

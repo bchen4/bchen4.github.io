@@ -23,10 +23,7 @@ Data Scientist & Bioinformatician
 * GitHub：[bchen4](https://github.com/bchen4)
 
 
-## 友情链接
-
-
 
 ## Comments
 
-{% include disqus_comments.html %}
+{% include comments.html %}

@@ -3,7 +3,7 @@ layout: post
 title:  《子弹笔记术》笔记
 date:   2018-12-28 22:33
 categories: Book
-author: bchen
+author: 豆藏
 ---
 
 * content

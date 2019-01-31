@@ -3,7 +3,7 @@ layout: post
 title:  认知计算和大数据分析
 date:   2018-10-27 22:16
 categories: Book
-author: bchen
+author:  豆藏
 ---
 
 * content

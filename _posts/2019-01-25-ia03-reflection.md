@@ -3,7 +3,7 @@ layout: post
 title:  修炼之路-信息分析三期复盘
 date:   2019-01-25 21:41
 categories: Life
-author: bchen
+author: 豆藏
 ---
 
 * content

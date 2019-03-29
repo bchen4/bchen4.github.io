@@ -3,7 +3,7 @@ layout: post
 title:  Use Plotly to draw map
 date:   2019-03-29 12:18
 categories: Tech
-tags: Python
+tags:  Visualization
 author: 豆藏
 ---
 

@@ -9,10 +9,10 @@ author: 豆藏
 
 * content
 {:toc}
+
 ## Purpose
 
 Generate maps using latitude and longitude. Data looks like this. The label column separates locations to two types, and I want to show them in different color.
-
 
 latitude| longitude  | label 
 ----|----|----
@@ -20,9 +20,8 @@ latitude| longitude  | label
  30.659360 | -98.484974 | 1     
  30.636712 | -98.411125 | 2     
 
-
-
 By browsing around different types of maps provided by Plotly, the scattermapbox is what I need.
+
 
 
 

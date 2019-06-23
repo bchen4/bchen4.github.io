@@ -15,7 +15,7 @@ author: 豆藏
 花了点时间研究Anki这个辅助记忆的软件。下面是基础用法的笔记。
 
 - AnkiApp是个knockoff不要用。到[官网]([https://apps.ankiweb.net/index.html](https://apps.ankiweb.net/index.html)) 去下载PC/Mac版本。（iOS版本app收费，建议手机不想花钱用户用浏览器在ankiweb上使用；安卓手机版本免费）
-- Anki的介绍基础用法都可以参看[这篇知乎回答](https://zhuanlan.zhihu.com/p/39806225](https://zhuanlan.zhihu.com/p/39806225)
+- Anki的介绍基础用法都可以参看[这篇知乎回答](https://zhuanlan.zhihu.com/p/39806225)
 - 进阶的Tag如何使用可以参考[这篇博文](https://medium.com/@yvonnejiu/%E9%86%AB%E5%AD%B8%E7%94%9F%E7%9A%84k%E6%9B%B8%E6%B3%95-anki%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97-%E4%B8%8A-%E5%9F%BA%E7%A4%8E%E6%A6%82%E5%BF%B5-%E6%A8%A1%E7%89%88%E5%88%86%E4%BA%AB-329defff54cc). （Medium站也许要科学上网？）
 - Anki有四种卡片类型，对于我来说可能使用得最多的就是基础卡片了：正面问题，反面答案
 

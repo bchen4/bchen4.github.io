@@ -84,10 +84,5 @@ author: 豆藏
   * Lanolin (等乳头干了擦，哺乳前需要洗掉)
 
 
-
-
-- 
-- https://apps.ankiweb.net/docs/manual.html)
-
 ## ChangLog
 20190922：初稿+完稿

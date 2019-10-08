@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  数字极简的实操手册
+title:  数字极简实操手册
 date:   2019-10-07 21:30
 categories: Book
 author:  豆藏

@@ -34,7 +34,9 @@ author:  豆藏
 
 难道就没有解决办法了吗？
 
-作者这时候亮出了他的新武器——数字极简。
+
+Cal Newport在他的新书《Digital minimalism》里亮出了他的新武器——数字极简。
+
 
 > Digital minimalism:  A philosophy of technology use in which you focus your online time on a small number of carefully selected and optimized activities that strongly support things you value, and then happily miss out on everything else. 数字极简：一个指导你如何使用新科技的方针，要求你把精力集中在经过精心选择并优化过使用行为的科技产品上，而无视其他产品。
 

@@ -15,7 +15,7 @@ author: 豆藏
 
 
 
-![](https://github.com/bchen4/bchen4.github.io/raw/master/img/20200307/timeblock_2w.png)
+<img src="https://github.com/bchen4/bchen4.github.io/raw/master/img/20200307/timeblock_2w.png" width=400> </img>
 
 ### 制作方法
 1. 找到每天的必须做的大事需要发生的时间作为锚点。可以是三餐，上下班，锻炼的时间。对于现在的我是上班，泵奶，娃吃饭睡觉的时间。

@@ -2,7 +2,7 @@
 layout: post
 title:  《写给大家看的设计书》笔记
 date:   2020-9-6 21:00
-categories: Tools
+categories: Book
 author: 豆藏
 ---
 

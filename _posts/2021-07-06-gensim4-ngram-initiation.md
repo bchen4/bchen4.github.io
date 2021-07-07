@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Time-series Visualization
+title:  Gensim4 ngram init
 date:   2021-07-06 14:40
 categories: Tech
 tags: Tech

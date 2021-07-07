@@ -2,7 +2,7 @@
 layout: post
 title:  刀刀阅读营结营小结
 date:   2021-07-08 17:10
-categories: Life, Kid
+categories: Life Kid
 author: 豆藏
 ---
 
